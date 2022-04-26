@@ -8,7 +8,7 @@ const port = 3000;
 app.use(morgan('combined'));
 app.get("/", (req,res) =>{
 
-    res.send("Hello Viboon MAMA");
+    res.send("Hello Viboon ไก่กา อาราเร่");
 
 })
 
