@@ -10,11 +10,11 @@ const port = 3000;
 app.use(morgan('combined'));
 app.use(express.static(path.join(__dirname, "/public/")));
 
-app.get("/", (req,res) =>{
+// app.get("/", (req,res) =>{
 
-    res.send("Hello Viboon ไก่กา อาราเร่");
+//     res.send("Hello Viboon ไก่กา อาราเร่");
 
-})
+// })
 
 app.listen(port, ()=>{
     debug("Listening on Port"+ chalk.blue(port));
