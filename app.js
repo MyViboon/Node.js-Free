@@ -17,5 +17,5 @@ app.use(express.static(path.join(__dirname, "/public/")));
 // })
 
 app.listen(port, ()=>{
-    debug("Listening on Port"+ chalk.blue(port));
+    console.log("Listening on Port"+ chalk.blue(port));
 })
