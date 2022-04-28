@@ -25,7 +25,8 @@ app.use("/products", productsRouter);
 
 app.get("/", (req,res) =>{
 
-    res.render('index', {username: "Viboon 555+", customer: ["dog555", "cat", "pick"]});
+    // res.render('index', {username: "Viboon 555+", customer: ["dog555", "cat", "pick"]});
+    res.render('index');
 
 })
 
