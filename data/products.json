@@ -1,34 +1,32 @@
-{
-    "products": [
-        {
-            "id":0,
-            "productTitle": "น้ำยาล้างจาน 1",
-            "ProductDescription": "น้ำยาล้างจานสูตร 1",
-            "productPrice": 100
-        },
-        {
-            "id":1,
-            "productTitle": "น้ำยาล้างจาน 2",
-            "ProductDescription": "น้ำยาล้างจานสูตร 2",
-            "productPrice": 65
-        },
-        {
-            "id":2,
-            "productTitle": "น้ำยาล้างจาน 3",
-            "ProductDescription": "น้ำยาล้างจานสูตร 3",
-            "productPrice": 85
-        },
-        {
-            "id":3,
-            "productTitle": "น้ำยาล้างจาน 4",
-            "ProductDescription": "น้ำยาล้างจานสูตร 4",
-            "productPrice": 35
-        },
-        {
-            "id":4,
-            "productTitle": "น้ำยาล้างจาน 5",
-            "ProductDescription": "น้ำยาล้างจานสูตร 5",
-            "productPrice": 355
-        }
-    ]
-}
+[
+    {
+        "id": 0,
+        "productTitle": "น้ำยาล้างจาน 1",
+        "ProductDescription": "น้ำยาล้างจานสูตร 1",
+        "productPrice": 100
+    },
+    {
+        "id": 1,
+        "productTitle": "น้ำยาล้างจาน 2",
+        "ProductDescription": "น้ำยาล้างจานสูตร 2",
+        "productPrice": 65
+    },
+    {
+        "id": 2,
+        "productTitle": "น้ำยาล้างจาน 3",
+        "ProductDescription": "น้ำยาล้างจานสูตร 3",
+        "productPrice": 85
+    },
+    {
+        "id": 3,
+        "productTitle": "น้ำยาล้างจาน 4",
+        "ProductDescription": "น้ำยาล้างจานสูตร 4",
+        "productPrice": 35
+    },
+    {
+        "id": 4,
+        "productTitle": "น้ำยาล้างจาน 5",
+        "ProductDescription": "น้ำยาล้างจานสูตร 5",
+        "productPrice": 355
+    }
+]
