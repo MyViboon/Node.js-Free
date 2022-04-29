@@ -17,7 +17,8 @@ app.set('view engine', "ejs");
 productsRouter.route("/").get((req,res) => {
     res.render("products",{
         products,
-    });
+    }
+    );
 });
 
 productsRouter.route("/:id").get((req,res) => {
