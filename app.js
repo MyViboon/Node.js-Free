@@ -20,9 +20,9 @@ productsRouter.route("/").get((req,res) => {
     );
 });
 
-// productsRouter.route("/1").get((req,res) => {
-//     res.send("Hello World !! I'am Product1")
-// });
+productsRouter.route("/1").get((req,res) => {
+    res.send("Hello World !! I'am Product1")
+});
 
 app.use("/products", productsRouter);
 
